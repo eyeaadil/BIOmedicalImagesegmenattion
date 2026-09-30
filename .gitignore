@@ -37,8 +37,9 @@ ENV/
 *.gz
 *.rar
 
+
 datasets/
-data/
+# data/ (Allowing data to be pushed)
 outputs/
 
 # Deep Learning checkpoints
