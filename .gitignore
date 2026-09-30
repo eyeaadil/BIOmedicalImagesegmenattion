@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+.env/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large files and datasets
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.rar
+
+datasets/
+data/
+outputs/
+
+# Deep Learning checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.weight
+*.onnx
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
